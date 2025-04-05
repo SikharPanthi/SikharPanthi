@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sikhar Panthi! 👋
 
-<!--
-**SikharPanthi/SikharPanthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 **BCA Student** at Butwal Kalika Campus
+- 🌍 Based in Nepal
+- 💻 Passionate about web development and programming
 
-Here are some ideas to get you started:
+## Skills
+- **HTML**
+- **CSS**
+- **Java**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GitHub Stats
+![Sikhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+### Let's Connect!
+- 📧 Email: (sikharpanthi69@gmail.com)
+- 🌐 Portfolio:(www.sikharpanthi.com.np)
