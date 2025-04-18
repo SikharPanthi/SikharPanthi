@@ -21,12 +21,6 @@ Here are a few highlights of my recent work:
 
 ---
 
-### Let's Connect!
-- 📧 Email: (sikharpanthi69@gmail.com)
-- 🌐 Portfolio:(www.sikharpanthi.com.np)
-
----
-
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
