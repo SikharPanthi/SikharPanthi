@@ -27,7 +27,20 @@ Here are a few highlights of my recent work:
 ---
 
 🌱 _"Code is like poetry; it speaks to those who know how to listen."_ 😊
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ### Let's Connect!
 - 📧 Email: (sikharpanthi69@gmail.com)
