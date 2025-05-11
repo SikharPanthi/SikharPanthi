@@ -1,4 +1,4 @@
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?sikharsp=perisicnikola37)
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Hiragyawali&label=Profile%20views&color=0e75b6&style=flat" alt="amritxyz" /> </p>
 # Hi, I'm Sikhar Panthi! 👋
 
 
