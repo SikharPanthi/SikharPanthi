@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?sikharsp=perisicnikola37)
 # Hi, I'm Sikhar Panthi! 👋
 
 
