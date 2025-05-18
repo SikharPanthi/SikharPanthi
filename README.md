@@ -47,5 +47,9 @@ I'm **Sikhar**, a passionate **Frontend Developer** who loves crafting clean, re
 ## 🤝 Let's Connect!
 
 - 📧 **Email**: [sikharpanthi69@gmail.com](mailto:sikharpanthi69@gmail.com)  
-- 🌐 **Portfolio**: [www.sikharpanthi.com.np](https://www.sikharpanthi.com.np)  
+- 🌐 **Portfolio**: [www.sikharpanthi.com.np](https://www.sikharpanthi.com.np)
+
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sikharsp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
