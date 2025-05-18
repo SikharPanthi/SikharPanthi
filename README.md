@@ -37,6 +37,8 @@ I'm **Sikhar**, a passionate **Frontend Developer** who loves crafting clean, re
 </div>
 
 ---
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sikharsp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="center">
   🌱 <em>"Code is like poetry; it speaks to those who know how to listen."</em> 😊
@@ -50,6 +52,5 @@ I'm **Sikhar**, a passionate **Frontend Developer** who loves crafting clean, re
 - 🌐 **Portfolio**: [www.sikharpanthi.com.np](https://www.sikharpanthi.com.np)
 
 
-  ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sikharsp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
