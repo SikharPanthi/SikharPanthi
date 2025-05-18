@@ -1,47 +1,51 @@
+# 👋 Hi, I'm Sikhar Panthi!
 
-# Hi, I'm Sikhar Panthi! 👋
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sikharspi&label=Profile%20views&color=0e75b6&style=flat" alt="sikhar" /> </p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sikharspi&label=Profile%20views&color=0e75b6&style=flat" alt="sikhar" />
+</p>
 
-Hello there! 👋 I'm **sikhar**, a passionate frontend developer who loves crafting engaging and user-friendly interfaces. With skills in **HTML**, **CSS**, **JavaScript**, **Java**, and **C**, I enjoy solving problems and turning ideas into interactive digital experiences.
+I'm **Sikhar**, a passionate **Frontend Developer** who loves crafting clean, responsive, and user-friendly interfaces. I thrive on solving problems and turning ideas into interactive digital experiences.
 
 ---
 
 ## 🌟 Skills & Expertise
-- **Frontend Development**: HTML, CSS, JavaScript
-- **Programming**: Java, C
-- **Version Control**: Git & GitHub
-- **Responsive Design**: Crafting designs that look great on all devices
-- **Problem-Solving**: Analytical skills for effective debugging and optimization
+- 🎨 **Frontend Development**: HTML, CSS, JavaScript  
+- 💻 **Programming Languages**: Java, C  
+- 🔧 **Version Control**: Git & GitHub  
+- 📱 **Responsive Design**: Mobile-first, cross-device compatible UIs  
+- 🧠 **Problem-Solving**: Strong debugging and optimization skills  
 
 ---
 
-## 🚀 Projects
-Here are a few highlights of my recent work:
-- **[sikharpanthi.com.np]**: A brief description of your project and its purpose.
-- **[anmolchhetri.com.np]**: Add more details here for a project you're proud of.
+## 🚀 Featured Projects
+
+- 🔗 [**sikharpanthi.com.np**](https://sikharpanthi.com.np) – Personal portfolio showcasing my work, skills, and blog.  
+- 🔗 [**anmolchhetri.com.np**](https://anmolchhetri.com.np) – A custom-built site for a client, focused on clean design and fast performance.
 
 ---
 
+## 📊 GitHub Stats
 
 <div align="center">
 
-# 📊 GitHub Stats:
+<img src="https://nirzak-streak-stats.vercel.app/?user=sikharsp&theme=dark&hide_border=false" alt="GitHub Streak" /><br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sikharsp&theme=dark&hide_border=false" /><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=sikharsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sikharsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikharsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikharsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
 ---
 
+<p align="center">
+  🌱 <em>"Code is like poetry; it speaks to those who know how to listen."</em> 😊
+</p>
 
-🌱 _"Code is like poetry; it speaks to those who know how to listen."_ 😊
+---
 
+## 🤝 Let's Connect!
 
+- 📧 **Email**: [sikharpanthi69@gmail.com](mailto:sikharpanthi69@gmail.com)  
+- 🌐 **Portfolio**: [www.sikharpanthi.com.np](https://www.sikharpanthi.com.np)  
 
-### Let's Connect!
-- 📧 Email: (sikharpanthi69@gmail.com)
-- 🌐 Portfolio:(www.sikharpanthi.com.np)
