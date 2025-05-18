@@ -24,14 +24,14 @@ Here are a few highlights of my recent work:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sikharsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sikharsp&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=sikharsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sikharsp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sikharsp&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 
 🌱 _"Code is like poetry; it speaks to those who know how to listen."_ 😊
 
